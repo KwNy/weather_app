@@ -1,11 +1,8 @@
 import React from 'react';
-
 import Form from './Form.js';
 import Result from './Result.js';
 import Visual from './Visual.js';
 import './App.css';
-
-// const APIkey = 
 
 class App extends React.Component {
 
